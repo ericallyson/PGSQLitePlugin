@@ -7,7 +7,7 @@
     <name>PGSQLite</name>
     
     <asset src="www/pgsqliteplugin.js" target="pgsqliteplugin.js" />
-    
+    <description>Plugin PGSQL</description>
     <!-- android -->
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/plugins">
