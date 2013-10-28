@@ -5,7 +5,9 @@
     version="2.0.0">
 
     <name>PGSQLite</name>
-    
+    <description>
+        Plugin de Acesso a banco de dados 
+    </description>
     <asset src="www/pgsqliteplugin.js" target="pgsqliteplugin.js" />
     
     <!-- android -->
