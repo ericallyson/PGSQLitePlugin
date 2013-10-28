@@ -8,7 +8,7 @@
     
     <asset src="www/pgsqliteplugin.js" target="pgsqliteplugin.js" />
     <description>Plugin PGSQL</description>
-     <licenses>
+   
    <license>Apache 2.0</license>
     <!-- android -->
     <platform name="android">
