@@ -8,6 +8,13 @@
     
     <asset src="www/pgsqliteplugin.js" target="pgsqliteplugin.js" />
     <description>Plugin PGSQL</description>
+     <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
     <!-- android -->
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/plugins">
